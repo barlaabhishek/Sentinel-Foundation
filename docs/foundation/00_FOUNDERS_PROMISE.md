@@ -1,12 +1,6 @@
-# Founder's Promise
+THE FOUNDER'S PROMISE
+Written Before Sentinel Had Earned the World's Trust
 
-**Status:** Draft  
-**Version:** Founding Edition (2026)
+First Edition
 
----
-
-The Founder's Promise is the constitutional commitment behind Sentinel.
-
-It defines the principles, responsibilities, and long-term commitments that guide the institution.
-
-This document is currently being prepared.
+"Every generation inherits unfinished work...
