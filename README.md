@@ -2,7 +2,7 @@
 
 > **Status:** Founding Edition (2026) • Pre-Product • Repository under active development
 
-> **Sentinel is building trusted coordination infrastructure for complex organizations that helps complex organizations coordinate work with greater clarity, accountability, and operational confidence.**
+> **Sentinel is building trusted coordination infrastructure that helps complex organizations coordinate work with greater clarity, accountability, and operational confidence.**
 
 ---
 
