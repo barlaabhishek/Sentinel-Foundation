@@ -4,6 +4,8 @@
 
 **Founding Edition — 2026**
 
+*Estimated reading time: 35–45 minutes*
+
 > *"Every generation inherits unfinished work. Some inherit it knowingly. Others discover it only after they refuse to look away."*
 
 ---
@@ -2854,7 +2856,7 @@ Take care of it.
 ---
 
 
-# Declaration
+# Author's Declaration
 
 I wrote these pages before Sentinel had earned trust.
 
@@ -2895,3 +2897,9 @@ Founder, Sentinel
 Founding Edition • 2026
 
 ---
+
+© 2026 Barla Abhishek
+
+All rights reserved.
+
+Founding Edition.
