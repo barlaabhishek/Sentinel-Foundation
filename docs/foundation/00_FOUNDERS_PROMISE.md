@@ -2538,14 +2538,6 @@ But as a lifelong commitment to who I intend to become.
 
 ---
 
-**Barla Abhishek**
-
-Founder, Sentinel
-
-*Written before Sentinel had earned the world's trust.*
-
----
-
 ---
 
 # Epilogue — To Those Who Continue After Me
