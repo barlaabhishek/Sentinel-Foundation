@@ -94,17 +94,11 @@ Principles guide judgment.
 
 Rules attempt to anticipate situations.
 
-Principles prepare people for situations that could never have been anticipated.
+Principles prepare institutions for situations that could never have been anticipated.
 
 No collection of policies can account for every future challenge.
 
 Every generation encounters questions previous generations never imagined.
-
-Technology changes.
-
-Society changes.
-
-Institutions change.
 
 Technology changes.
 
@@ -169,3 +163,7 @@ Everything that follows should be understood in that spirit.
 These principles do not promise flawless conduct.
 
 They establish the standard to which Sentinel will continually hold itself accountable.
+
+Every generation will be responsible for interpreting them faithfully.
+
+No generation will possess the authority to abandon the responsibility from which they arose.
