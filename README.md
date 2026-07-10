@@ -2,7 +2,7 @@
 
 > **Status:** Founding Edition (2026) • Pre-Product • Repository under active development
 
-> **Sentinel is building trusted coordination infrastructure that helps complex organizations coordinate work with greater clarity, accountability, and operational confidence.**
+> **Sentinel is building trusted coordination infrastructure that enables complex organizations to coordinate work with greater clarity, accountability, and operational confidence.**
 
 ---
 
@@ -28,17 +28,13 @@ Sentinel exists to reduce that fragmentation through trusted coordination infras
 
 If this is your first time visiting Sentinel, begin with these documents.
 
-1. Founder's Promise *(Published)* [[Founder's Promise](docs/foundation/00_FOUNDERS_PROMISE.md)]
-2. Founder's Principles *(Coming Soon)*
+1. Founder's Promise *(Published)* [Founder's Promise](docs/foundation/00_FOUNDERS_PROMISE.md)]
+2. Founder's Principles *(Published)* [Founder's Principles](docs/foundation/01_FOUNDERS_PROMISE.md)]
 3. Sentinel Constitution *(Coming Soon)*
 4. Mission *(Coming Soon)*
 5. Ethics *(Coming Soon)*
 
 These documents explain why Sentinel exists before explaining how it works.
-
-## Current Status
-
-**Stage:** Research & Validation
 
 Sentinel is currently documenting its philosophical, operational, and technical foundations before public product development.
 
@@ -87,16 +83,13 @@ Software, research summaries, and technical documentation will be published in f
 ---
 
 This repository serves as the public record of Sentinel's founding. It documents the institution's principles, governance, mission, and evolution through transparent public editions.
-## Publication
 
 ## Publication
 
 **Current Edition:** Founding Edition (2026)
 
-Future editions will expand this repository through transparent, versioned publications rather than replacing earlier work.
+Sentinel publishes its foundational documents through versioned public editions.
 
-Each edition represents the historical state of Sentinel at that point in its development.
+Rather than rewriting history, each edition preserves the institutional record at that point in Sentinel's development.
 
-This repository is intended to evolve through transparent public editions.
-
-Major institutional documents will be published incrementally rather than rewritten in place.
+Future editions will expand, refine, and supersede earlier work while preserving the historical progression of the institution.
