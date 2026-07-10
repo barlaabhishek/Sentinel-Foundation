@@ -562,7 +562,7 @@ The distinction is fundamental.
 
 Ownership asks,
 
-"What belongs to us?"
+"What do we control?"
 
 Stewardship asks,
 
