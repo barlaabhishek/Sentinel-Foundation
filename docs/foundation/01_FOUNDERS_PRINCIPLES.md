@@ -1221,3 +1221,47 @@ Their purpose is to help Sentinel become worthy of the trust it seeks.
 As long as these principles continue shaping ordinary decisions, they will remain alive.
 
 The day they become ceremonial rather than operational, they will have already begun losing their purpose.
+
+---
+
+# Closing Declaration
+
+No institution becomes trustworthy because it publishes principles.
+
+Trust is earned only when those principles continue governing conduct across years, decades, and generations.
+
+These principles are therefore offered not as evidence of what Sentinel already is.
+
+They are the standard toward which Sentinel continually commits itself.
+
+Every generation entrusted with this institution inherits both the freedom to improve its methods and the responsibility to preserve its purpose.
+
+If future generations discover wiser approaches, they should pursue them.
+
+If reality exposes errors, they should correct them.
+
+If new responsibilities emerge, they should meet them faithfully.
+
+The institution should always become wiser than the generation currently entrusted with its care.
+
+That is not a departure from these principles.
+
+It is one of them.
+
+Should Sentinel remain faithful to the standards recorded in these pages, these principles will continue serving long after those who first wrote them are gone.
+
+Should Sentinel depart from them, no document alone will preserve its integrity.
+
+Institutions ultimately become what they repeatedly choose to practice.
+
+May every generation choose wisely.
+
+---
+
+**Founding Edition**
+
+2026
+
+**Barla Abhishek**
+
+Founder, Sentinel
