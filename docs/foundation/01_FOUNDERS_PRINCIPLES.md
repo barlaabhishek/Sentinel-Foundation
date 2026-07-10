@@ -18,7 +18,7 @@ It is an institutional document.
 
 The Promise records the commitments of Sentinel's founder.
 
-The Principles define the standards Sentinel itself must continually strive to uphold.
+The Principles establish the standards by which Sentinel shall continually govern itself.
 
 Individuals may fail.
 
@@ -50,7 +50,7 @@ During those moments, institutions discover whether they are governed by princip
 
 Circumstances change.
 
-Principles should not.
+Principles should remain recognizable.
 
 Principles exist to reduce arbitrariness.
 
@@ -166,4 +166,4 @@ They establish the standard to which Sentinel will continually hold itself accou
 
 Every generation will be responsible for interpreting them faithfully.
 
-No generation will possess the authority to abandon the responsibility from which they arose.
+No generation possesses the authority to abandon the responsibility from which these principles arose.
