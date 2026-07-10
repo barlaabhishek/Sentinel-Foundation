@@ -28,8 +28,8 @@ Sentinel exists to reduce that fragmentation through trusted coordination infras
 
 If this is your first time visiting Sentinel, begin with these documents.
 
-1. Founder's Promise *(Published)* [Founder's Promise](docs/foundation/00_FOUNDERS_PROMISE.md)]
-2. Founder's Principles *(Published)* [Founder's Principles](docs/foundation/01_FOUNDERS_PROMISE.md)]
+1. Founder's Promise *(Published)* [Founder's Promise](docs/foundation/00_FOUNDERS_PROMISE.md)
+2. Founder's Principles *(Published)* [Founder's Principles](docs/foundation/01_FOUNDERS_PROMISE.md)
 3. Sentinel Constitution *(Coming Soon)*
 4. Mission *(Coming Soon)*
 5. Ethics *(Coming Soon)*
