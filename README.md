@@ -1,6 +1,6 @@
 # Sentinel
 
-> **Status:** Founding Edition (2026) • Pre-Product • Repository under active development
+> **Status:** Founding Edition (2026) • Pre-Product • Repository under active development 
 
 > **Sentinel is building trusted coordination infrastructure that enables complex organizations to coordinate work with greater clarity, accountability, and operational confidence.**
 
